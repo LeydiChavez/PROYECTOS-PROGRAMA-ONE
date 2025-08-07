@@ -1,6 +1,6 @@
 # Proyectos del Programa ONE con Alura Latam
 
-Este repositorio contiene todos los proyectos que iré desarrollando durante el curso del **Programa one** y **Alura Latam**.  
+Este repositorio contiene todos los proyectos que iré desarrollando durante el curso del **Programa ONE** y **Alura Latam**.  
 
 Cada carpeta corresponde a un proyecto independiente con su propio código y documentación.
 
