@@ -1,6 +1,7 @@
-# Proyectos Alura Latam
+# Proyectos del Programa ONE con Alura Latam
 
-Este repositorio contiene todos los proyectos que iré desarrollando durante el curso de **Alura Latam**.  
+Este repositorio contiene todos los proyectos que iré desarrollando durante el curso del **Programa one** y **Alura Latam**.  
+
 Cada carpeta corresponde a un proyecto independiente con su propio código y documentación.
 
 ## Lista de proyectos
@@ -9,11 +10,13 @@ Cada carpeta corresponde a un proyecto independiente con su propio código y doc
    Aplicación web sencilla para agregar nombres y realizar un sorteo aleatorio entre ellos.  
    [Ver proyecto](./amigo-secreto)
 
+
 *(Se irán agregando más proyectos a medida que avance en el curso)*
+
 
 ## Tecnologías utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git y GitHub

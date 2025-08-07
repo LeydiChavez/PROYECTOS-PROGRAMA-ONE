@@ -31,7 +31,7 @@ Está desarrollado con **HTML**, **CSS** y **JavaScript**
 
 ## 📷 Capturas de pantalla
 
-muestra de como sale la aplicacion en uso:
+Nos muestra como sale la aplicacion en uso:
 
 ### Pantalla principal
 ![Pantalla principal](./screenshots/pantalla-principal.png)
@@ -46,7 +46,7 @@ muestra de como sale la aplicacion en uso:
 
 ## 🛠 Tecnologías utilizadas
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
@@ -54,17 +54,20 @@ muestra de como sale la aplicacion en uso:
 
 ## 📂 Estructura del proyecto
 
+```plaintext
 amigo-secreto/
 │
-├── assets/ # Imágenes de la aplicación
-├── screenshots/ # Capturas de pantalla de que el proyecto funciona
-│ ├── pantalla-principal.png
-│ ├── nombres-agregados.png
-│ └── sorteo-realizado.png
-├── index.html # Página principal
-├── style.css # Estilos del proyecto
-├── app.js # Lógica en JavaScript
-└── README.md # Documentación del proyecto
+├── assets/                # Imágenes de la aplicación
+├── screenshots/           # Capturas de pantalla de que el proyecto funciona
+│   ├── pantalla-principal.png
+│   ├── nombres-agregados.png
+│   └── sorteo-realizado.png
+├── index.html              # Página principal
+├── style.css               # Estilos del proyecto
+├── app.js                  # Lógica en JavaScript
+└── README.md               # Documentación del proyecto
+```
+
 
 ---
 
