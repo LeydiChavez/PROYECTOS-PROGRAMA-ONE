@@ -87,7 +87,7 @@ challenge1-data-science-latam/
     │   ├── productos.csv
     │   ├── clientes.csv
     │   └── canales.csv
-    └── README.md  ← (aún lo crearemos
+    └── README.md 
 
 ```
 
