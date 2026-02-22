@@ -14,6 +14,10 @@ Cada carpeta corresponde a un proyecto independiente con su propio código y doc
    Proyecto de análisis de datos donde se estudian las ventas de la tienda Alura utilizando Python y pandas.  
    [Ver proyecto](./challenge1-data-science-latam)
 
+2. **Challenge 2 - Data Science ETL (Churn de Clientes)**  
+   Proyecto de análisis de datos donde se realiza un ETL para comprender los factores que llevan a la pérdida de clientes.  
+   [Ver proyecto](./challenge2-data-science-ETL)
+
    
 *(Se irán agregando más proyectos a medida que avance en el curso)*
 
@@ -23,5 +27,6 @@ Cada carpeta corresponde a un proyecto independiente con su propio código y doc
 - HTML
 - CSS
 - JavaScript
+- JSON
 - Python (pandas, matplotlib, seaborn)
 - Git y GitHub
