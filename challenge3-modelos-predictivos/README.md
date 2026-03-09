@@ -52,7 +52,7 @@ El rendimiento de los modelos fue evaluado mediante:
 
 - Recall
 
--Importancia de variables (Permutation Importance)
+- Importancia de variables (Permutation Importance)
 
 ---
 
@@ -126,3 +126,48 @@ challenge3-modelos-predictivos/
     └── README.md 
 
 ```
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- Python 🐍
+
+- Pandas 📊
+
+- NumPy
+
+- Matplotlib 📈
+
+- Seaborn 📊
+
+- Scikit-learn 🤖
+
+- Google Colab ☁️
+
+---
+
+## ▶️ Cómo Ejecutar el Proyecto
+
+1. Abrir el archivo .ipynb en Google Colab o Jupyter Notebook
+
+2. Cargar el dataset utilizado en el análisis
+
+3. Ejecutar las celdas en orden
+
+4. Revisar las visualizaciones, modelos entrenados y conclusiones finales
+
+---
+
+## 📈 Resultados del Proyecto
+
+Los modelos desarrollados demostraron ser capaces de identificar clientes con riesgo de churn, permitiendo a la empresa anticiparse a posibles cancelaciones.
+
+Entre los modelos evaluados, Logistic Regression y Random Forest mostraron el mejor equilibrio entre precisión y capacidad de detección de churn.
+
+Estos modelos pueden utilizarse como base para desarrollar sistemas de alerta temprana que ayuden a mejorar la retención de clientes.
+
+---
+
+✍️ **Autor:** *Leydi Chavez*
+Para consultas o colaboración, puedes contactarme a través de LinkedIn o GitHub
